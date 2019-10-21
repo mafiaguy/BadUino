@@ -1,3 +1,4 @@
 BadUino is an arduino based bad usb which is  a replica of the famous usb rubber ducky. 
 The payloads are similar to rubber ducky and is created by the help of http://seytonic.com/ducky/
 and with the help of the aurdino pro micro so that making a usb ruber ducky cheap 
+Baduino is technically an arduino design by Brainsmoke. I was brave again and soldered it with his help. Again it`s an SMD solder (so magnifier and patience).
